@@ -1,32 +1,48 @@
 # TRABALHO 01:  Cartão do torcedor
-Trabalho desenvolvido durante a disciplina de BD1
+Trabalho desenvolvido durante a disciplina de BD1, cursada em 2017/2 no IFES.
 
 # Sumário
 
 ### 1. COMPONENTES<br>
-Integrantes do grupo<br>
 Gustavo Graciliano:gustavo.graciliano@gmail.com<br>
 Pedro Cruz :pedrocruzns@gmail.com<br>
 Wagner Maurício :wmauriciu@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
-<br>e motivação da escolha realizada. <br>
+
+Pela primeira vez na história das Copas do Mundo de futebol ter um ingresso<br>
+em mãos não será o suficiente para entrar no estádio. As autoridades russas vão <br>
+barrar qualquer um que não tiver também uma credencial. Trata-se da Fan ID <br>
+(Identidade do Fã, em português).<br>
+<br>
+O documento será confeccionado gratuitamente para o torcedor que possuir bilhetes.<br>
+Para isso, será necessário preencher um cadastro no site (www.fan-id.ru) ou <br>
+comparecer pessoalmente a um dos centros de distribuição das 11 cidades-sedes.<br>
+O espectador só tem acesso ao formulário após receber da Fifa um código de identificação individual.<br>
+As entradas para o Mundial deverão ser comercializadas a partir de agosto.<br>
+<br>
+O objetivo das autoridades russas é ter controle total sobre quem entra e sai das<br>
+arenas e evitar que hooligans já fichados pela polícia na Rússia e em outros países<br>
+possam comparecer aos jogos.
+<br>
+<br>
+Parte da matéria <a href="http://www1.folha.uol.com.br/esporte/2017/06/1891498-russia-cria-cartao-de-torcedor-para-afastar-hooligans-da-copa.shtml">Rússia cria cartão de torcedor para afastar hooligans da Copa</a>, <br>
+retirada do site Folha de São Paulo.
+<br>
+<br>
+
+O gosto pelo futebol nos trouxe até aqui. Mais do que isso, o desejo de frequentar um estádio<br>
+sem se preocupar com a possibilidade de brigas entre torcidas organizadas, explosões de bombas ou rojões,<br>
+uso do gás de pimenta feito pela polícia para controlar os torcedores mais exaltados ou <br>
+aquele torcedor sem noção que invade o campo e atrapalha o espetáculo.<br>
+<br>
+A vontade de ver o estádio de futebol como um lugar tranquilo para ser frequentado<br>
+pela família toda, com sentimento de segurança.<br>
 
 ### 3.MINI-MUNDO<br>
-
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
-Entrevista com o usuário e identificação dos requisitos.<br>
-Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
-cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
-gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-
-
-
 <b>O sistema em si:</b><br>
-O sistema, apesar de estar vinculado ao acesso de torcedores ao estádio<br>
-de futebol, não tem relação com ingresso.<br>
-<br>
+O sistema, apesar de estar vinculado ao acesso de torcedores ao estádio de<br>
+futebol, não tem relação com ingresso.<br>
 Os serviços serão oferecidos para o governo e terão dois usuários,<br>
 os torcedores e as empresas gestoras dos estádios. O primeiro usará <br>
 para se cadastrar e poder ter o acesso ao estádio e o segundo usará <br>
