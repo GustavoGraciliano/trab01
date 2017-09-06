@@ -21,6 +21,40 @@ Descrição textual das regras de negócio definidas como um  subconjunto do mun
 cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
 gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 
+
+
+<b>O sistema em si:</b><br>
+O sistema, apesar de estar vinculado ao acesso de torcedores ao estádio<br>
+de futebol, não tem relação com ingresso.<br>
+<br>
+Os serviços serão oferecidos para o governo e terão dois usuários,<br>
+os torcedores e as empresas gestoras dos estádios. O primeiro usará <br>
+para se cadastrar e poder ter o acesso ao estádio e o segundo usará <br>
+para ter o controle de acesso de torcedores e o bloqueio daquele torcedor<br>
+que foi proibido judicialmente de frequentar o estádio.<br>
+<br>
+
+<b>Banco de dados:</b><br>
+O banco de dados terá o cadastro de todos os torcedores que frequentarem <br>
+os estádios pelo menos uma vez. Dentro dos campos com as informações <br>
+terá o status com a informação se ele está ou não liberado para frequentar o estádio.<br>
+Esse status será verificado com a lista de torcedores punidos fornecida pelo TJ de cada estado.<br>
+<br>
+
+<b>Aplicação:</b><br>
+O usuário poderá fazer o seu próprio cadastro pelo site ou realizar o cadastro <br>
+no estádio antes da partida. No cadastro será pedido os dados pessoais do torcedor como por exemplo:<br>
+nome, rg, cpf, endereço e uma senha para acesso ao site.<br>
+Para a verificação da liberação do torcedor o mesmo recepcionista que irá validar<br>
+os ingressos irá validar o ID do torcedor.<br>
+O link abaixo mostra a lista da FPF (Federação Paulista de Futebol) de torcedores que foram<br>
+julgados e proibidos pela justiça de frequentar os estádios, atualizada pela última vez <br>
+dia 03/08/2017. Nela tem as mesmas informações fornecidas pelo torcedor durante o cadastro <br>
+além da data de início da punição e data de término da mesma.<br>
+<br>
+<a href="http://2016.futebolpaulista.com.br/ListadeTorcedoresPunidos.pdf" target="_blank">Lista de torcedores punidos pela FPF</a>
+<br>
+<br>
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
