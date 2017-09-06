@@ -4,9 +4,9 @@ Trabalho desenvolvido durante a disciplina de BD1, cursada em 2017/2 no IFES.
 # Sumário
 
 ### 1. COMPONENTES<br>
-Gustavo Graciliano:gustavo.graciliano@gmail.com<br>
-Pedro Cruz :pedrocruzns@gmail.com<br>
-Wagner Maurício :wmauriciu@gmail.com<br>
+Gustavo Graciliano: gustavo.graciliano@gmail.com<br>
+Pedro Cruz: pedrocruzns@gmail.com<br>
+Wagner Maurício: wmauriciu@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 
@@ -72,11 +72,19 @@ além da data de início da punição e data de término da mesma.<br>
 <br>
 <br>
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/inicio.png?raw=true "Title")
+<br>
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/inicio.png?raw=true "Title")
+<br>
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/cadastro.png?raw=true "Title")
+<br>
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/meuperfil.png?raw=true "Title")
+<br>
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/quemsomos.png?raw=true "Title")
+<br>
+![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/manualdobomtorcedor.png?raw=true "Title")
+<br>
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
     a) Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas.
