@@ -91,13 +91,28 @@ além da data de início da punição e data de término da mesma.<br>
     b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
     e deve ser criada antes do modelo conceitual
     c) Após criada esta tabela não deve ser modificada, pois será comparada com a tabela final na conclusão do trabalho
+    <br>
+    <br>
+    ![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/Mapeamento%20entidades.xlsx "Title")
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 10 principais relatórios que podero ser obtidos por meio do sistema proposto!
+    a) O sistema proposto poderá fornecer quais tipos de relatórios e informações?<br>
     
->## Marco de Entrega 01 em: (Data definida no cronograma)<br>
+    b) Crie uma lista com os 10 principais relatórios que poderao ser obtidos por meio do sistema proposto!<br>
+    1. Torcedores proibidos de frequentar estádios no Brasil todo.<br>
+    2. Torcedores proibidos de frequentar estádios em determinado estado.<br>
+    3. Torcedor com maior número de punições.<br>
+    4. Time com maior número de torcedores punidos.<br>
+    5. Time com menor número de torcedores punidos.<br>
+    6. Quantidade de torcedores punidos que consomem bebida alcóolica.<br>
+    7. Quantidade de torcedores punidos que fazem parte de torcida organizada.<br>
+    8. Idade média dos torcedores punidos.<br>
+    9. Quais torcedores estão próximos do fim da punição.<br>
+    10. Qual é o estádio preferido em cada estado.<br>
+    
+        
+## Marco de Entrega 01 em: (Data definida no cronograma)<br>
 
 ### 5.MODELO CONCEITUAL<br>
     A) NOTACAO ENTIDADE RELACIONAMENTO 
