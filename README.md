@@ -91,9 +91,10 @@ além da data de início da punição e data de término da mesma.<br>
     b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
     e deve ser criada antes do modelo conceitual
     c) Após criada esta tabela não deve ser modificada, pois será comparada com a tabela final na conclusão do trabalho
-    <br>
-    <br>
-    ![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/Mapeamento%20entidades.xlsx "Title")
+   
+   
+   <br>
+   Observar o arquivo ![Alt text](https://github.com/cartaodotorcedor/trab01/blob/master/Mapeamento%20entidades.xlsx?raw=true "Title") na raiz do projeto.
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
